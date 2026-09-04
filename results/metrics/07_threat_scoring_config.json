@@ -1,0 +1,23 @@
+{
+  "event_count": 82332,
+  "detected_anomaly_count": 18142,
+  "mean_threat_score": 37.89066732252663,
+  "median_threat_score": 27.59026288986206,
+  "max_threat_score": 100.0,
+  "low_count": 0,
+  "medium_count": 66590,
+  "high_count": 6510,
+  "critical_count": 9232,
+  "threshold": 0.031196122989058495,
+  "score_weights": {
+    "anomaly_magnitude": 0.6,
+    "model_confidence": 0.25,
+    "predicted_anomaly": 0.15
+  },
+  "severity_thresholds": {
+    "Low": "0-24",
+    "Medium": "25-49",
+    "High": "50-74",
+    "Critical": "75-100"
+  }
+}

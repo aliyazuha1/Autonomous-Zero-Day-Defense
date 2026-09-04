@@ -1,0 +1,4 @@
+example,test_index,attack_cat,true_label,reconstruction_loss,predicted_anomaly
+normal,0,Normal,0,0.01718274876475334,0
+known_attack,243,Reconnaissance,1,0.03194907680153847,1
+unseen_zero_day,387,Worms,1,0.02246267907321453,0

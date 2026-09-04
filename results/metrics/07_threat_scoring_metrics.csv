@@ -1,0 +1,2 @@
+event_count,detected_anomaly_count,mean_threat_score,median_threat_score,max_threat_score,low_count,medium_count,high_count,critical_count,threshold
+82332,18142,37.89066732252663,27.59026288986206,100.0,0,66590,6510,9232,0.031196122989058495

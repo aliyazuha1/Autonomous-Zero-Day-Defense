@@ -1,0 +1,4 @@
+group,samples,mean_reconstruction_error,median_reconstruction_error,detected_anomalies,detection_rate
+Normal,37000,0.0012724879,0.00034393457,3398,0.09183783783783783
+Known attack,45288,0.0385222,0.01358426,33592,0.7417417417417418
+Unseen: Worms,44,0.0041515515,0.0010472487,14,0.3181818181818182

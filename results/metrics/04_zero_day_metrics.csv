@@ -1,0 +1,8 @@
+metric,value
+accuracy,0.8163047174853034
+precision,0.9081720895038374
+recall,0.7413306273713933
+f1_score,0.8163136416634279
+unseen_attack_detection_rate,0.3181818181818182
+known_attack_detection_rate,0.7417417417417418
+normal_false_positive_rate,0.09183783783783783
